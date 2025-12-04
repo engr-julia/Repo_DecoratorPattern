@@ -1,5 +1,13 @@
 # CIMB Decorator Pattern – Savings Account, GSave, UpSave
 
+## UML Class Diagram
+
+Below is the diagram (*CIMB.jpeg*) displayed directly inside the README:
+
+![CIMB UML Diagram](CIMB.jpeg)
+
+---
+
 ## Problem Statement
 
 CIMB is a digital bank that offers GSave and UpSave savings accounts. As with a typical Savings Account, it contains an accountNumber, accountName, and a balance for that account.
@@ -13,17 +21,10 @@ CIMB is a digital bank that offers GSave and UpSave savings accounts. As with a 
 - The UpSave account offers the highest interest rate of **4.0%**.  
   Benefits: **Standard Savings Account + "With Insurance"**
 
-You must develop a **Decorator Pattern** following the UML diagram provided.  
-`Cimb.java` must NOT be modified except for inserting a package name.
-
-The system must display:
-
-- Account information  
-- Account type  
-- Interest rate  
-- New balance with interest  
-- Benefits  
+A **Decorator Pattern** must be implemented following the UML diagram.  
+`Cimb.java` must NOT be modified except the package name.
 
 ---
 
-Benefits: Standard Savings Account, With Insurance
+## Program Output
+
