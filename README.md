@@ -2,9 +2,7 @@
 
 ## UML Class Diagram
 
-Below is the diagram (*CIMB.jpeg*) displayed directly inside the README:
-
-![CIMB UML Diagram](CIMB.jpeg)
+![CIMB UML Diagram](Cimb.JPG)
 
 ---
 
